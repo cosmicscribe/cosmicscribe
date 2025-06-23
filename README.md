@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/anirban1611283" target="blank"><img src="https://img.shields.io/twitter/follow/anirban1611283?logo=twitter&style=for-the-badge" alt="anirban1611283" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Front-End ,MEARN**
 
-- 💬 Ask me about **Front-End , TESTNET**
+- 💬 Ask me about **Front-End , TESTNET , Web-3**
 
-- 📫 How to reach me **anirbanmondal.reach2@gmail.com**
+- 📫 Drop mail to  **anirbanmondal.reach2@gmail.com**
 
-- ⚡ Fun fact **A explorer & Crypto Enthusiast**
+- ⚡ Fun fact **I am a explorer & Crypto Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
