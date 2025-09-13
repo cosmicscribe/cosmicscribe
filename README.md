@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Front-End ,MEARN**
+- 🌱 I’m currently learning **Front-End ,MERN**
 
 - 💬 Ask me about **Front-End , TESTNET , Web-3**
 
-- 📫 Drop mail to  **anirbanmondal.reach2@gmail.com**
+- 📫 Drop mail to  **anirbanmondal.reach@gmail.com**
 
 - ⚡ Fun fact **I am a explorer & Crypto Enthusiast**
 
