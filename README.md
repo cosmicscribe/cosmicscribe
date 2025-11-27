@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning Front-End, MERN, Graphics Design<br><br>💬 Ask me about Front-End, MERN, Graphics Design<br><br>📫 Drop mail to anirbanmondal953@gmail.com<br><br>⚡ Fun fact I am a explorer & Crypto Enthusiast
+🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning Front-End, MERN, Graphics Design<br><br>💬 Ask me about Front-End, MERN, Graphics Design<br><br>📫 Drop mail to anirbanmondal.reach@gmail.com<br><br>⚡ Fun fact I am a explorer & Crypto Enthusiast
 
 
 ## 🌐 Socials:
